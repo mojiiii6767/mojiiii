@@ -11,5 +11,5 @@ price = int(input())
 if pay = int(input())
    print ("pay")
 eles :
-if price = int(input())
+   price = int(input())
    print ("price")
