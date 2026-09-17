@@ -8,3 +8,8 @@
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 pay = int(input())
 price = int(input())
+if pay = int(input())
+   print ("pay")
+eles :
+if price = int(input())
+   print ("price")
