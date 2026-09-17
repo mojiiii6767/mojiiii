@@ -10,5 +10,5 @@ temp = float(input())
 if temp >= 37.5 :
    print ("Fever")
 eles :
-if temp <= 37.5 :
+   temp <= 37.5 :
    print ("Normal")
